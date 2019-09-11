@@ -1,0 +1,24 @@
+{
+  "name": "hax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js",
+    "dev": "nodemon lib/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "natural": "^0.6.3",
+    "string-strip-html": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
