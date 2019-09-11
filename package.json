@@ -16,7 +16,8 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "natural": "^0.6.3",
-    "string-strip-html": "^4.2.0"
+    "string-strip-html": "^4.2.0",
+    "tidy-html5": "^0.1.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
