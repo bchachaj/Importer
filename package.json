@@ -15,6 +15,9 @@
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
+    "ingredients-parser": "^1.4.0",
+    "metascraper": "^5.7.4",
+    "metascraper-title": "^5.7.4",
     "natural": "^0.6.3",
     "string-strip-html": "^4.2.0",
     "tidy-html5": "^0.1.1"
