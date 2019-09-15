@@ -19,7 +19,8 @@
     "metascraper-title": "^5.7.4",
     "morgan": "^1.9.1",
     "natural": "^0.6.3",
-    "string-strip-html": "^4.2.0"
+    "string-strip-html": "^4.2.0",
+    "supertest": "^4.0.2"
   },
   "devDependencies": {
     "eslint": "^6.3.0",
