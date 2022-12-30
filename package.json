@@ -17,7 +17,7 @@
     "ingredients-parser": "^1.4.0",
     "metascraper": "^5.7.4",
     "metascraper-title": "^5.7.4",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "natural": "^0.6.3",
     "string-strip-html": "^4.2.0",
